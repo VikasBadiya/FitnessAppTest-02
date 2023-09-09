@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-09T15:16:59 IST" name="All Test Suite" finished-at="2023-09-09T15:17:28 IST" duration-ms="29020">
+    <groups>
+    </groups>
+    <test started-at="2023-09-09T15:16:59 IST" name="FitnessAppTest" finished-at="2023-09-09T15:17:28 IST" duration-ms="29020">
+      <class name="LoginPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:11 IST" name="SetUp" finished-at="2023-09-09T15:17:13 IST" duration-ms="2177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="emptyInputFields()[pri:1, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:13 IST" name="emptyInputFields" finished-at="2023-09-09T15:17:14 IST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyInputFields -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:14 IST" name="TearDown" finished-at="2023-09-09T15:17:14 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:14 IST" name="SetUp" finished-at="2023-09-09T15:17:16 IST" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="emptyUserIDField()[pri:2, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:16 IST" name="emptyUserIDField" finished-at="2023-09-09T15:17:17 IST" duration-ms="940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyUserIDField -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:17 IST" name="TearDown" finished-at="2023-09-09T15:17:17 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:17 IST" name="SetUp" finished-at="2023-09-09T15:17:20 IST" duration-ms="2309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="emptyPINField()[pri:3, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:20 IST" name="emptyPINField" finished-at="2023-09-09T15:17:20 IST" duration-ms="994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptyPINField -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:20 IST" name="TearDown" finished-at="2023-09-09T15:17:21 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:21 IST" name="SetUp" finished-at="2023-09-09T15:17:23 IST" duration-ms="2288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="invalidPIN()[pri:4, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:23 IST" name="invalidPIN" finished-at="2023-09-09T15:17:24 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPIN -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:24 IST" name="TearDown" finished-at="2023-09-09T15:17:24 IST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:24 IST" name="SetUp" finished-at="2023-09-09T15:17:27 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="successfulLogin()[pri:5, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:27 IST" name="successfulLogin" finished-at="2023-09-09T15:17:28 IST" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successfulLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:LoginPageTest@6ce139a4]" started-at="2023-09-09T15:17:28 IST" name="TearDown" finished-at="2023-09-09T15:17:28 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- LoginPageTest -->
+      <class name="HomePageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:HomePageTest@1f0f1111]" started-at="2023-09-09T15:16:59 IST" name="SetUp" finished-at="2023-09-09T15:17:06 IST" duration-ms="6991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="HomepageHeading()[pri:1, instance:HomePageTest@1f0f1111]" started-at="2023-09-09T15:17:06 IST" name="HomepageHeading" finished-at="2023-09-09T15:17:07 IST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageHeading -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:HomePageTest@1f0f1111]" started-at="2023-09-09T15:17:07 IST" name="TearDown" finished-at="2023-09-09T15:17:07 IST" duration-ms="152" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:HomePageTest@1f0f1111]" started-at="2023-09-09T15:17:07 IST" name="SetUp" finished-at="2023-09-09T15:17:10 IST" duration-ms="2606" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LogoutFunctionality()[pri:2, instance:HomePageTest@1f0f1111]" started-at="2023-09-09T15:17:10 IST" name="LogoutFunctionality" finished-at="2023-09-09T15:17:11 IST" duration-ms="1056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFunctionality -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:HomePageTest@1f0f1111]" started-at="2023-09-09T15:17:11 IST" name="TearDown" finished-at="2023-09-09T15:17:11 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- HomePageTest -->
+    </test> <!-- FitnessAppTest -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
